@@ -38,7 +38,5 @@ Based on the analysis, telecom companies may consider:
 - Developing loyalty programs for customers approaching contract renewal periods.
 
 ## Files in This Repository
-- `data_cleaning.sql` – SQL queries used to prepare and clean the dataset
-- `exploratory_analysis.sql` – queries used for exploratory data analysis
 - `churn_analysis.sql` – analysis queries used to identify churn patterns
 - `powerbi_dashboard.pbix` – Power BI dashboard visualizing churn insights
